@@ -1,0 +1,13 @@
+@media (max-width:990px) {
+    form{
+        width: 80%;
+    }
+
+    form .container-btn{
+        display: inline-block;
+    }
+
+    .container-filtro{
+        width: 80%;
+    }
+}
